@@ -8,4 +8,4 @@ def home():
 
 if __name__ == '__main__':
     # debug=True : 서버 내용이 수정되면 자동으로 재가동
-    app.run(debug=True, host='0.0.0.0')
+    app.run(debug=True, host='0.0.0.0') 
