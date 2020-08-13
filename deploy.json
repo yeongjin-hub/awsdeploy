@@ -1,7 +1,7 @@
 {
-  "REPO_URL":"https://github.com/yeongjin-hub/awsdeploy.git",
+  "REPO_URL":"https://github.com/yeongjin-hub/awsdeploy",
   "PROJECT_NAME":"awsdeploy",
-  "REMOTE_HOST":"ec2-3-34-48-78.ap-northeast-2.compute.amazonaws.com",
-  "REMOTE_HOST_SSH":"3.34.48.78",
+  "REMOTE_HOST":"ec2-52-79-251-139.ap-northeast-2.compute.amazonaws.com",
+  "REMOTE_HOST_SSH":"52.79.251.139",
   "REMOTE_USER":"ubuntu"
 }
